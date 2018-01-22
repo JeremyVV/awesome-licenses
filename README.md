@@ -1,6 +1,6 @@
-[![Build Status](https://travis-ci.org/JeremyVV/awesome-licenses.svg?branch=master)](https://travis-ci.org/JeremyVV/awesome-licenses)
+[![Build Status](https://api.travis-ci.org/JeremyVV/awesome-licenses.svg?branch=master)](https://travis-ci.org/JeremyVV/awesome-licenses)
 
-# Awesome Shell [![Awesome][awesome-badge]][awesome-link]
+# Awesome License
 
 A curated list of license sites
 
