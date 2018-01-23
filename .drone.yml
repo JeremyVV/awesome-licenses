@@ -1,0 +1,7 @@
+pipeline:
+  test:
+    image: ruby:2.2
+    commands:
+      - gem install awesome_bot
+      - awesome_bot README.md
+
